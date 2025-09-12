@@ -8,4 +8,6 @@ In addition, we offer **website migration services** to help businesses move awa
 
 [Ethical WordPress Pentest: Linux Command Cheat Sheet for Students](https://github.com/roverbird/cybersec/blob/main/wp-pentest.md)
 
+[Ethical MySQL / MS-SQL Pentest: Step by step, lab only](https://github.com/roverbird/cybersec/blob/main/mysql-pentest.md)
+
 
