@@ -6,6 +6,6 @@ In addition, we offer **website migration services** to help businesses move awa
 
 # Content
 
-[Ethical WordPress Pentest: Linux Command Cheat Sheet for Students](https://github.com/roverbird/cybersec/wp-pentest.md)
+[Ethical WordPress Pentest: Linux Command Cheat Sheet for Students](https://github.com/roverbird/cybersec/blob/main/wp-pentest.md)
 
 
